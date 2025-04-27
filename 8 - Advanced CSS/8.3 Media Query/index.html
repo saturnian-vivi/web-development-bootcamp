@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- 
+TODO: Change the background color for each device
+[lightsalmon] Mobile Devices: 319px — 480px
+[powderblue] iPads and Tablets: 481px — 1200px
+[limegreen] Laptops: 1201px — 1600px
+[seagreen] Desktops: 1601px and more
+-->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+  <title>Media Query</title>
+  <style>
+    body {
+      background-color: aquamarine;
+    }
+
+    @media (319px <= width <= 480px) {
+      body {
+        background-color: lightsalmon;
+      }
+    }
+
+    @media (481px <= width <= 1200px) {
+      body {
+        background-color: powderblue;
+      }
+    }
+
+    @media (1201px <= width <= 1600px) {
+      body {
+        background-color: limegreen;
+      }
+    }
+
+    @media (1601px <= width) {
+      body {
+        background-color: seagreen;
+      }
+    }
+
+  </style>
+</head>
+
+<body>
+  <p>Cupcake ipsum dolor sit amet donut carrot cake. 
+    Carrot cake tiramisu chocolate cake tart oat cake. 
+    Toffee jelly fruitcake sesame snaps cake donut danish cotton candy. 
+    Toffee halvah gingerbread sesame snaps sesame snaps gummies shortbread candy.
+  </p>
+  <p>
+    Danish macaroon pie lemon drops jelly beans. 
+    Gummi bears caramels danish marshmallow candy canes. 
+    Jelly gummi bears chocolate bar chupa chups jujubes halvah wafer caramels. 
+    Brownie dragée shortbread toffee chocolate bar carrot cake.
+  </p>
+  <p>
+    Topping danish chocolate bar oat cake croissant sweet roll. 
+    Cookie soufflé jelly-o shortbread shortbread brownie cupcake pudding. 
+    Soufflé bear claw chocolate cake cookie chocolate muffin croissant. 
+    Cotton candy cookie sweet gummies brownie carrot cake pie gingerbread.
+  </p>
+  <p>
+    Jujubes pie lemon drops cake liquorice lollipop. 
+    Cupcake carrot cake apple pie sweet roll chocolate bar. 
+    Gummies apple pie fruitcake gummi bears sweet croissant jelly biscuit.
+  </p>
+  <p>
+    Caramels caramels cotton candy chocolate candy. 
+    Cake apple pie tart cheesecake jelly beans. 
+    Gummies gummi bears powder toffee chupa chups caramels macaroon pudding. 
+    Liquorice ice cream chupa chups jelly jelly-o soufflé powder marshmallow jelly.
+  </p>    
+</body>
+
+</html>

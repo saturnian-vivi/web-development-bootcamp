@@ -1,0 +1,203 @@
+<div align="center">
+  <a href="https://www.udemy.com//the-complete-web-development-bootcamp/"><img src="https://github.com/saturnian-vivi/web-development-bootcamp/blob/main/assets/course-cover-img.jpg" alt="Course Cover & Link" style="width:100; height:auto;"/></a>
+</div>
+
+<br />
+
+**A compilation of my notes as well as codes - all in the same order as available on "The Complete Full Stack Web Development Bootcamp" course on Udemy By Dr. Angela Yu.**
+
+<h2>Course Content & Learning Objectives:</h2>
+
+- Front-End Web Development
+  - Required Software
+  - How the Internet Works
+  - How websites work
+- Introduction to HTML
+  - What is HTML
+  - Heading Elements
+  - Paragraph Elements
+  - Self Closing Tags
+  - Project: Movie Ranking Website
+- Intermediate HTML
+  - List Element
+  - Nesting and Indentation
+  - Anchor Elements
+  - Image Elements
+  - Project: Birthday Invite Webpage
+- Multi-Page Websites
+  - Computer File Paths
+  - HTML Boilerplate
+  - Project: Portfolio website
+  - Hosting website with GitHub
+  - Capstone Project: Online Resume
+- Introduction to CSS
+  - Why CSS
+  - Adding CSS
+  - CSS Selectors
+  - Project: Colour Vocab Website
+- CSS Properties
+  - CSS Colours
+  - Font Properties
+  - Inspecting CSS
+  - CSS Box Model
+  - Project: Motivational Poster Website
+- Intermediate CSS
+  - Cascade Specificity and Inheritance
+  - Combining CSS Selectors
+  - CSS Positioning
+  - Project: CSS Flag
+- Advanced CSS
+  - CSS Display
+  - CSS Float
+  - Creating Responsive Websites
+  - Media Queries
+  - Project: Web Design Agency Website
+- Flexbox
+  - Display: Flex
+  - Flex Direction
+  - Flex Layout
+  - Flex Sizing
+  - Project: Pricing Table Section
+- Grid
+  - Display: Grid
+  - Grid Sizing
+  - Grid Placement
+  - Project: Mondrian Painting
+- Bootstrap
+  - What is Bootstrap
+  - Bootstrap Layout
+  - Bootstrap Components
+  - Project: TinDog Startup Website
+- Web Design School - Create a Website that People Love
+  - Web Design
+  - Colour Theory
+  - Typography and Choosing a Font
+  - Effective UI Design
+  - UX Design
+- Capstone Project 2 - Personal Site
+  - Website Structure
+  - Topics Covered
+- Introduction to Javascript ES6
+  - Introduction to JS
+  - Alerts
+  - Data Types
+  - Variables
+  - Naming Conventions
+  - Strings Concatenation
+  - Length and Character/s retrieval
+  - Slicing and Extraction
+  - Arithmetic and Modulo Operators
+  - Numbers, Increment & Decrement
+  - Creating & Calling Functions
+  - Parameters and Arguments
+  - Coding Practise: Life in Weeks
+  - Outputs & Return Values
+  - Coding Practise: BMI Calculator
+- Intermediate Javascript
+  - Random Number Generation
+  - Coding Practise: Love Calculator
+  - If-Else Conditional Control Statements
+  - Comparators and Equality
+  - Combining Comparators
+  - Coding Practise: BMI Calculator Advanced
+  - Coding Practise: Leap Year Finder
+  - JS Collections: Arrays
+  - Array Techniques
+  - Coding Practise: Who’s Buying Lunch
+  - While Loops & 99 Bottles Challenge
+  - For Loops
+  - Coding Practise: Fibonacci Series
+- The Document Object Model (DOM)
+  - JS in Websites
+  - What is DOM
+  - Selecting HTML using JS
+  - Manipulating HTML style using JS
+  - Structure vs Style vs Behaviour
+  - Text manipulation and Content Property
+  - Manipulating attributes
+- Boss Level Challenge 1 - The Dice Game
+  - Game Objective
+  - Game Flow
+  - Topics Covered
+- Advanced Javascript and DOM Manipulation
+  - Project: Drum Kit
+  - Adding Event Listeners
+  - Passing Functions as Arguments
+  - Adding Sound to Website
+  - Switch Statements in JS
+  - JS Objects
+  - Objects, Methods and Dot Notation
+  - Keyboard Event Listeners
+  - Callbacks and Event Responses
+  - Animations in Websites
+- jQuery
+  - What is jQuery
+  - Adding jQuery
+  - Minification to Reduce File Size
+  - Selecting Elements
+  - Manipulating Styles
+  - Manipulating Text
+  - Manipulating Attributes
+  - Adding Event Listeners
+  - Adding and Removing Elements
+  - Website animation with jQuery
+- Boss Level Challenge 2 - The Simon Game
+  - Game Objective
+  - Game Flow 
+  - Topics Covered
+- The Unix Command Line
+  - Git Bash on Windows
+  - Understanding CLI
+  - Techniques and Directory Navigation
+  - Creating, Opening and Removing Files
+- Backend Web Development
+  - What is Backend Development
+  - Tools and Technologies
+- Node.js
+  - What is Node.js
+  - Installation
+  - Using Node.js
+  - Native Node Modules
+  - NPM Package Manager & External Node Modules
+  - Project: QR Code Generator
+- Express.js with Node.js
+  - What is Express.js
+  - Creating a Server
+  - HTTP Requests
+  - Postman
+  - Middlewares
+  - Custom Middlewares
+  - Project: Secrets Access
+- EJS
+- Capstone Project - Create a Blog web application
+- Git, Github and Version Control
+  - What is Version Control and Git
+  - Using Git and CLI as VCS
+  - GitHub and Remote Repositories
+  - Gitignore
+  - Cloning
+  - Branching and Merging
+  - Forking and Pull Requests
+- Application Programming Interfaces (APIs)
+- Capstone Project - Use a Public API
+- Build Your Own API
+- Databases
+  - SQL vs NoSQL Databases
+- SQL
+  - CREATE Table & INSERT Data
+  - READ, SELECT and WHERE
+  - Updating Values and Adding Columns
+  - DELETE Command
+  - Relationships, Foreign Keys and Inner Joins
+- PostgreSQL
+  - Introduction & Installation
+- Capstone Project - Book Notes 
+- Authentication and Security - Handling Credentials & Designing a Secure Login 
+- React.js 
+- Web3 Decentralised App (DApp) Development with the Internet Computer 
+- Build Your First Defi (Decentralised Finance) DApp - DBANK 
+- Deploying to the ICP Live Blockchain 
+- Building DApps on ICP with a React Frontend 
+- Create Your Own Crypto Token 
+- Minting NFTs and Building an NFT Marketplace like OpenSea 
+- Tips to Persevere given in Course
